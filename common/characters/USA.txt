@@ -1,0 +1,21 @@
+characters = {
+
+	## Leaders ##
+
+	USA_Richard_Nixon = {
+		name = "Richard Nixon"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/USA/richard_nixon.png"
+			}
+		}
+		country_leader = {
+			ideology = reformed_republicanism
+			traits = {}
+			expire = "2050.3.1.1"
+			id = -1
+		}
+	}
+
+
+}

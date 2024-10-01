@@ -1,0 +1,21 @@
+characters = {
+
+	## Leaders ##
+
+	FRA_francois_mitterand = {
+		name = "Francois Mitterand"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/FRA/francois_mitterand.png"
+			}
+		}
+		country_leader = {
+			ideology = socdem
+			traits = {}
+			expire = "2050.3.1.1"
+			id = -1
+		}
+	}
+
+
+}
