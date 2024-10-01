@@ -1,0 +1,21 @@
+characters = {
+
+	## Leaders ##
+
+	SAF_magnus_malan = {
+		name = "Magnus Malan"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SAF/magnus_malan.png"
+			}
+		}
+		country_leader = {
+			ideology = military_dictatorship
+			traits = {}
+			expire = "2050.3.1.1"
+			id = -1
+		}
+	}
+
+
+}
