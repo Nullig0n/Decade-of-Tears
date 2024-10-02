@@ -1,0 +1,21 @@
+characters = {
+
+	## Leaders ##
+
+	ENG_Neil_Kinnock = {
+		name = "Neil Kinnock"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ENG/neil_kinnock.png"
+			}
+		}
+		country_leader = {
+			ideology = labourism
+			traits = {}
+			expire = "2050.3.1.1"
+			id = -1
+		}
+	}
+
+
+}
